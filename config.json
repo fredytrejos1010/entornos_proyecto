@@ -1,0 +1,10 @@
+{
+  "url": "https://quotes.toscrape.com/",
+  "students": {
+    "file": "estudiantes.xlsx",
+    "columns": ["id", "nombre", "edad", "curso", "nota"],
+    "courses": ["datos", "programacion", "entornos"],
+    "grade_min": 0.0,
+    "grade_max": 5.0
+  }
+}
